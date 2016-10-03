@@ -81,6 +81,7 @@ int g_isspace(const char a)
 /* atoi(char s[])
  * 传入数字字符串，返回对应整型
  * 改进：可以匹配前置空格、正负号
+ * 限制：不能带小数
  */
 
 int g_atoi2(char s[]){

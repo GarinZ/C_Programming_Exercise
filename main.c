@@ -9,6 +9,8 @@
 
 
 int main(){
-
+    char s[] = "    +123456";
+    int n = g_atoi2(s);
+    printf("Integer is %d", n);
 }
 

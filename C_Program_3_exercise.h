@@ -7,6 +7,8 @@
 
 int binsearch(int x, int v[], int n);
 void escape(char s[], char t[]);
-int isdigit(char c);
+int g_isdigit(char c);
+int g_isspace(const char a);
+int g_atoi2(char s[]);
 
 #endif //C_PROGRAMMING_EXERCISE_C_PROGRAM_3_EXSERCISE_H
