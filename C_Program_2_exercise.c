@@ -2,7 +2,23 @@
 // Created by 张嘉霖 on 16/9/27.
 //
 #include <stdio.h>      // 包含标准库的信息
-#include "C_Program_2_exsersice.h"
+#include "C_Program_2_exercise.h"
+
+
+/* int strlen(char s[])
+ * 传入字符串，返回字符串长度
+ */
+
+
+int g_strlen(char s[]){
+    int i;
+    i = 0;
+
+    while(s[i] != '\0')
+        i ++;
+
+    return i;
+}
 
 
 /* 将字符型转换成对应整型

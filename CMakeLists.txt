@@ -4,9 +4,9 @@ project(C_Programming_Exercise)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
 set(SOURCE_FILES
-    C_Program_2_exsersice.c
-    C_Program_2_exsersice.h
+        C_Program_2_exercise.c
+        C_Program_2_exercise.h
     CMakeLists.txt
-    main.c)
+    main.c C_Program_3_exercise.c C_Program_3_exercise.h)
 
 add_executable(C_Programming_Exercise ${SOURCE_FILES})
