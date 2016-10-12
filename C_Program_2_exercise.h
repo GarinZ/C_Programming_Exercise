@@ -8,7 +8,6 @@
 
 int g_atoi (char s[]);
 int g_lower(char c);
-int g_strlen(char s[]);
 int g_upper(char c);
 void g_squeeze(char s[],char c);
 void g_strcat(char s[], char c[]);
