@@ -1,5 +1,5 @@
 //
-// Created by 张嘉霖 on 16/9/27.
+// Created by GarinZhang on 16/9/27.
 //
 #include <stdio.h>      // 包含标准库的信息
 #include "C_Program_2_exercise.h"

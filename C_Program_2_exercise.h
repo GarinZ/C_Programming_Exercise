@@ -1,5 +1,5 @@
 //
-// Created by 张嘉霖 on 16/9/27.
+// Created by GarinZhang on 16/9/27.
 //
 
 #ifndef UNTITLED_C_PROGRAM_2_EXSERSICE_H
